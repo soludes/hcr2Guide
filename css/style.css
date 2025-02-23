@@ -8,3 +8,8 @@ body {
   align-items: center;
   margin-top: 50vh;
 }
+
+#logo-temp {
+  height: 30vh;
+  width: 30vw;
+}
