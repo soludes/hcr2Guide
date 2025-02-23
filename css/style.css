@@ -1,9 +1,4 @@
 body {
-  display: flex;
-  justify-content: center; /* Centers horizontally */
-  align-items: center; /* Centers vertically */
-  height: 100vh; /* Ensures full height */
-  margin: 0; /* Removes default margin */
   background-color: black; /* Fallback background */
   color: white;
 }
@@ -16,11 +11,10 @@ body {
 
 #logo-temp {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 70vw;
-  height: 70vh;
-  background-color: black; /* Fallback background */
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  height: 90vh; /* Ensures full height */
+  margin: 0; /* Removes default margin */
 }
 
 #logo-temp img {
